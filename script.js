@@ -1,5 +1,4 @@
-alert ('welcome to khuncho  edus');
-prompt('with this, asuu cant mess you up')
+alert ('welcome to khuncho  portfolio');
 
 
 $(document).ready(function(){
